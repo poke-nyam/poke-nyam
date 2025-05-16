@@ -9,3 +9,8 @@ poke-nyamだよ。
 </p>
 
 ## できること
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+  </a>
+</p>
